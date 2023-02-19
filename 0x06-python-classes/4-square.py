@@ -1,4 +1,3 @@
-es (24 sloc) 744 Bytes
 #!/usr/bin/python3
 
 """Define a class Square."""
